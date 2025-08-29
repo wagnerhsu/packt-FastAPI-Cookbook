@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy>=2.0.0
+
+pytest
+httpx
+pytest-asyncio
+pytest-cov
+
+locust

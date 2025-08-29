@@ -1,0 +1,10 @@
+fastapi[all]
+motor
+elasticsearch>=8,<9
+
+aiohttp
+redis
+fastapi-cache2[redis]
+
+
+pytest
