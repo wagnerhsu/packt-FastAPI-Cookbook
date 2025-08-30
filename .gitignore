@@ -18,3 +18,4 @@ venv.bak/
 
 .DS_Store
 Thumbs.db
+MyCode/Chapter02/sql_example/test.db
